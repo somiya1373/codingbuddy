@@ -1,7 +1,12 @@
 .env
-node_modules/
 venv/
 __pycache__/
+*.pyc
+
+chroma_db/
+temp/
+data/
+
+node_modules/
 dist/
 build/
-.chromadb/
