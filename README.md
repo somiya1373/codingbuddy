@@ -8,3 +8,5 @@ CodeMentor AI helps students avoid switching between multiple platforms by integ
 Coding profile analysis AI-powered study assistant Group coding competitions Opportunity tracking Performance analytics
 
 The platform combines modern web technologies with AI-based Retrieval-Augmented Generation (RAG) to provide an intelligent and personalized learning experience.
+
+Deployed link: https://codingbuddy-d444.vercel.app/
